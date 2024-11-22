@@ -1,2 +1,2 @@
-nltk==3.6.2
+nltk==3.9
 rouge_score==0.0.4

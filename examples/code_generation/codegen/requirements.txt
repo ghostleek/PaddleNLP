@@ -1,5 +1,5 @@
 fastapi==0.79.0
-pydantic==1.9.1
+pydantic==1.10.13
 python-dotenv==0.20.0
 sse_starlette==0.10.3
 uvicorn==0.17.6
